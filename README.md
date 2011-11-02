@@ -28,3 +28,6 @@ Publish _anything_ you want, you dont have to worry what
 other people think about you.
 
 
+## The lonely ranger.
+
+What do you think about *DogTail*, comment at HackerNews: http://news.ycombinator.com/item?id=3184897
