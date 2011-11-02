@@ -1,15 +1,18 @@
-DogTail - Follow yourself.
+# DogTail.
 
-The social network just for you!.
+
+___The social network just for you.___
+
 
 Are you tired of reading updates from people you dont even know? 
+
 Do you really have time to read all those updates you dont even care about?
+
 Do you feel social anxiety or feel bad if your follower count aproaches zero?
 
-Enter DogTail. A social network just for you!. Follow who actually matters,
-see interesting updates of people you really care about and from those you
-have someting in common. 
+## Follow yourself
 
+*DogTail* is the social network _just for you_. 
+Follow people who _you really care about_.
+Read updates that actually _matter to you_.
 
-- 
-A social network for lonely / selfish / socialphobia.
